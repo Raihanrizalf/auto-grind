@@ -11,7 +11,7 @@ import time
 
 # requirement
 # pip install selenium==4.9.0
-# pip install
+# pip install webdriver-manager
 
 # Keyword List (generated using AI)
 keywords = [
@@ -81,3 +81,6 @@ if __name__ == '__main__':
       form.send_keys(keywords[i])
       form.send_keys(Keys.ENTER)
       time.sleep(1)
+
+# notes:
+# this script tested and works using selenium 4.9.0 & python 3.11.3
