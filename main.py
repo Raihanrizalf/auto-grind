@@ -20,7 +20,6 @@ keywords = [
     "Loop",
     "If statement",
     "Array",
-    "Object",
     "Class",
     "Method",
     "Interface",
