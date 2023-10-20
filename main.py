@@ -10,6 +10,5 @@ if __name__ == '__main__':
     # create object
     edgeBrowser = webdriver.Edge(EdgeChromiumDriverManager().install())
  
-    # open browser and navigate to facebook
     edgeBrowser.get('https://www.bing.com')
     time.sleep(60)
