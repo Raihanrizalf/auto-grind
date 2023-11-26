@@ -14,56 +14,9 @@ import time
 # pip install webdriver-manager
 
 # Keyword List (generated using AI)
+# NOTE: update 26 - 11 - 2023, you cant earn microsoft points when seaching the keyword that has already searched, so you need to generate new keyword.
 keywords = [
-    "Variable",
-    "Function",
-    "Loop",
-    "If statement",
-    "Array",
-    "Class",
-    "Method",
-    "Interface",
-    "Inheritance",
-    "Polymorphism",
-    "Abstraction",
-    "Encapsulation",
-    "Algorithm",
-    "Data structure",
-    "Stack",
-    "Queue",
-    "Linked list",
-    "Tree",
-    "Graph",
-    "Hash table",
-    "Sorting",
-    "Searching",
-    "Recursion",
-    "Binary",
-    "Compiler",
-    "Interpreter",
-    "Bytecode",
-    "Source code",
-    "Binary code",
-    "Debugging",
-    "Testing",
-    "Unit test",
-    "Integration test",
-    "Continuous integration",
-    "Version control",
-    "Git",
-    "Repository",
-    "Branching",
-    "Merging",
-    "Pull request",
-    "Agile",
-    "Scrum",
-    "Kanban",
-    "Waterfall",
-    "Software development",
-    "Web development",
-    "Mobile development",
-    "Game development",
-    "Artificial intelligence"
+    # Your keywords here
 ]
 
 if __name__ == '__main__':
